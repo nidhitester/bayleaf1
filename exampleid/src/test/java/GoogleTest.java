@@ -6,12 +6,13 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 
 public class GoogleTest {
+
     private static WebDriver driver;
     @Test
     public void google(){
 
-        System.setProperty("webdriver.chrome.driver","\\Soft\\chromedriver.exe");
-        driver=new ChromeDriver();
+        System.setProperty("webdriver.chrome.driver","src\\test\\java\\google_id\\chromedriver.exe");
+         driver= new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.MILLISECONDS);
         driver.manage().window().maximize();
         driver.get("https://www.google.com/");

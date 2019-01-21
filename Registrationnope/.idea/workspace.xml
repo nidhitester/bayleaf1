@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3110ef81-9ecf-4fe4-8b3d-974bc2cf3b52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Selanium/.idea/libraries/selenium_server_standalone_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selanium/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Neelam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selanium/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exampleid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/src/test/java/GoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exampleid/src/test/java/GoogleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/src/test/java/google_id/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/target/test-classes/GoogleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exampleid/target/test-classes/GoogleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/target/test-classes/google_id/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworkjava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkjava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javahw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javahw3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maven/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registration1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registration1/src/main/java" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/src/main/java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registration1/target/classes/NopeCommerce.class" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/target/classes/NopeCommerce.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,10 +29,12 @@
     <session id="2022726912">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,7 +64,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,10 +92,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="485" />
-    <option name="y" value="-15" />
+    <option name="x" value="-9" />
     <option name="width" value="1935" />
-    <option name="height" value="1040" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -90,36 +102,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Registrationnope" type="b2602c69:ProjectViewProjectNode" />
               <item name="Registrationnope" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Registrationnope" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Registrationnope" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Registrationnope" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Registrationnope" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Registrationnope" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Registrationnope" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Registrationnope" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -174,9 +164,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -228,13 +217,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
     <entry file="jar://C:/Soft/selenium-server-standalone-3.141.59.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -242,16 +225,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Commerce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Commerce.java" />
   </component>
   <component name="masterDetails">
     <states>

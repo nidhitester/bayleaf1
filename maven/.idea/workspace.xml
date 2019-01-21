@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b84c73f2-f416-46d1-aec3-d08891ba11a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Selanium/.idea/libraries/selenium_server_standalone_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selanium/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Neelam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Registrationnope/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Registrationnope/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selanium/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exampleid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/src/test/java/GoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exampleid/src/test/java/GoogleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/src/test/java/google_id/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/target/test-classes/GoogleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exampleid/target/test-classes/GoogleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/target/test-classes/google_id/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworkjava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkjava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javahw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javahw3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registration1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registration1/src/main/java" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/src/main/java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registration1/target/classes/NopeCommerce.class" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/target/classes/NopeCommerce.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,9 +28,10 @@
     <session id="1395620733">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -76,10 +87,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-195" />
-    <option name="y" value="75" />
+    <option name="x" value="-9" />
     <option name="width" value="1935" />
-    <option name="height" value="1040" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -97,44 +107,14 @@
             <path>
               <item name="maven" type="b2602c69:ProjectViewProjectNode" />
               <item name="maven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,15 +173,11 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.39432624" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -209,32 +185,24 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.39432624" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExampleMaven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExampleMaven.java" />
   </component>
   <component name="masterDetails">
     <states>

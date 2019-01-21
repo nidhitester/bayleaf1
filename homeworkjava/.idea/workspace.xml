@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f06185c6-175b-4fe9-9cd9-bf4891a1d2ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Selanium/.idea/libraries/selenium_server_standalone_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selanium/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Neelam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Registrationnope/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Registrationnope/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selanium/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exampleid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/src/test/java/GoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exampleid/src/test/java/GoogleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/src/test/java/google_id/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/target/test-classes/GoogleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exampleid/target/test-classes/GoogleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exampleid/target/test-classes/google_id/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javahw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javahw3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registration1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registration1/src/main/java" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/src/main/java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registration1/target/classes/NopeCommerce.class" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/target/classes/NopeCommerce.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +27,9 @@
     <session id="-1575788133">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -27,17 +38,17 @@
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="20" />
+          <entry key="java" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -57,22 +68,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Que7.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Que4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="40" column="66" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
+            <state relative-caret-position="289">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Que2.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/HashSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            <state relative-caret-position="447">
+              <caret line="231" column="19" selection-start-line="231" selection-start-column="19" selection-end-line="231" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#8064#8065#0" expanded="true" />
+                <element signature="e#8112#8113#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,10 +201,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+    <option name="x" value="-9" />
     <option name="width" value="1935" />
-    <option name="height" value="1040" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -209,14 +220,19 @@
             </path>
             <path>
               <item name="homework3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeworkjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework3" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -308,7 +324,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24934895" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -352,13 +368,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Que4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Que5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -391,7 +400,7 @@
     <entry file="file://$PROJECT_DIR$/src/Que13.java" />
     <entry file="file://$PROJECT_DIR$/src/Que7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
+        <state relative-caret-position="623">
           <caret line="40" column="66" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
         </state>
       </provider>
@@ -400,9 +409,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Que4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -459,6 +472,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="231" column="19" selection-start-line="231" selection-start-column="19" selection-end-line="231" selection-end-column="19" />
+          <folding>
+            <element signature="e#8064#8065#0" expanded="true" />
+            <element signature="e#8112#8113#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
