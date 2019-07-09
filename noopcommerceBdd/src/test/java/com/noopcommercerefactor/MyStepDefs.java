@@ -87,6 +87,7 @@ RegistrationPage registrationPage=new RegistrationPage();
 
     @Given("^User already on home page$")
     public void user_already_on_home_page()  {
+        driver.get("https://demo.nopcommerce.com/");
 
     }
 

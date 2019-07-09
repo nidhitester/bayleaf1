@@ -7,14 +7,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 
 public class Hook extends Util {
+    CrossBrowser crossBrowser = new CrossBrowser();
 
     @Before
     public void browserLaunch() {
-        System.setProperty("webdriver.chrome.driver", "src\\test\\Resources\\Driver\\chromedriver.exe");
-        driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
-        driver.get("https://demo.nopcommerce.com/");
-
+        crossBrowser.browser1();
     }
     @After
     public void teardown(){

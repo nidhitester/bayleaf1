@@ -2,19 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f06185c6-175b-4fe9-9cd9-bf4891a1d2ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ie/.idea/libraries/selenium_server_standalone_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dgardner/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dgardner/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handlewindow/.idea/libraries/selenium_server_standalone_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handlewindow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handlewindow/src/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../january28com/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HelloWorld" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Registrationnope/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Registrationnope/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Registrationnope/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Registrationnope/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/.idea/libraries/selenium_server_standalone_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selanium/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Selanium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selanium/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/Selanium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/out/production/Selanium/FirstSeleniumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/out/production/Selanium/browserdriver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/src/FirstSeleniumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/src/browserdriver/.idea/browserdriver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/src/browserdriver/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/src/browserdriver/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/src/browserdriver/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/src/browserdriver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/main/java/com/demo/nopcommerce/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/main/java/com/demo/nopcommerce/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/main/java/com/demo/nopcommerce/LoadProp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/main/java/com/demo/nopcommerce/Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/test/Resources/Driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/test/Resources/Feature/verify.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/test/java/com/demo/nopcommerce/Hook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/test/java/com/demo/nopcommerce/MyStepDefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/test/java/com/demo/nopcommerce/RunTime.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../exampleid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exampleid/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exampleid/src/test/java/GoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exampleid/src/test/java/GoogleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exampleid/src/test/java/google_id/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exampleid/target/test-classes/GoogleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exampleid/target/test-classes/GoogleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exampleid/target/test-classes/google_id/AppTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homeworkjava/Que2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homeworkjava/Que2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homeworkjava/Que4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homeworkjava/Que4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Que2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Que2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Que4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Que4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javahw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javahw3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maven/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myHW3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myHW3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noopcommerceBdd/src/main/java/com/noopcommercerefactor/BooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../noopcommerceBdd/src/main/java/com/noopcommercerefactor/BooksPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noopcommerceBdd/src/main/java/com/noopcommercerefactor/CrossBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../noopcommerceBdd/src/main/java/com/noopcommercerefactor/CrossBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noopcommerceBdd/src/test/Resources/TestDataConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../noopcommerceBdd/src/test/Resources/TestDataConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noopcommerceBdd/src/test/java/com/noopcommercerefactor/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../noopcommerceBdd/src/test/java/com/noopcommercerefactor/Hook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noopcommerceBdd/src/test/java/com/noopcommercerefactor/MyStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../noopcommerceBdd/src/test/java/com/noopcommercerefactor/MyStepDefs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../registration1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../registration1/src/main/java" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/src/main/java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../registration1/target/classes/NopeCommerce.class" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/target/classes/NopeCommerce.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,64 +61,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1575788133">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="16" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="22" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="22" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="17" />
-          <entry key="java" value="5740" />
-          <entry key="txt" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="5740" />
-          <entry key="PLAIN_TEXT" value="24" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Que4.java">
+        <entry file="file://$PROJECT_DIR$/src/Que6.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <caret line="17" selection-start-line="17" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/HashSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
+            <state relative-caret-position="3281">
               <caret line="231" column="19" selection-start-line="231" selection-start-column="19" selection-end-line="231" selection-end-column="19" />
               <folding>
                 <element signature="e#8064#8065#0" expanded="true" />
@@ -93,35 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Que3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Que18.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Que11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/que12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="102">
+              <caret line="6" column="56" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -131,6 +99,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Que7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="66" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Que10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -162,6 +148,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Que2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -180,7 +175,6 @@
         <option value="$PROJECT_DIR$/src/Que1.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/Que3.java" />
-        <option value="$PROJECT_DIR$/src/Que4.java" />
         <option value="$PROJECT_DIR$/src/Que5.java" />
         <option value="$PROJECT_DIR$/src/Que6.java" />
         <option value="$PROJECT_DIR$/src/AscendingOrder.java" />
@@ -194,16 +188,18 @@
         <option value="$PROJECT_DIR$/src/Que15.java" />
         <option value="$PROJECT_DIR$/src/Que16.java" />
         <option value="$PROJECT_DIR$/src/Que7.java" />
-        <option value="$PROJECT_DIR$/src/Que2.java" />
         <option value="$PROJECT_DIR$/src/Que18.java" />
         <option value="$PROJECT_DIR$/src/Que13.java" />
+        <option value="$PROJECT_DIR$/src/Que2.java" />
+        <option value="$PROJECT_DIR$/src/Que4.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
+    <option name="x" value="-195" />
+    <option name="y" value="75" />
     <option name="width" value="1935" />
-    <option name="height" value="1039" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -231,8 +227,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -247,30 +243,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Que3">
-    <configuration name="Que14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Que14" />
+  <component name="RunManager" selected="Application.Que6">
+    <configuration name="Que1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Que1" />
       <module name="homeworkjava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Que15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Que15" />
-      <module name="homeworkjava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Que16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Que16" />
-      <module name="homeworkjava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Que18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Que18" />
+    <configuration name="Que2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Que2" />
       <module name="homeworkjava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -283,20 +265,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Que4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Que4" />
+      <module name="homeworkjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Que6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Que6" />
+      <module name="homeworkjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Que14" />
-      <item itemvalue="Application.Que15" />
-      <item itemvalue="Application.Que16" />
-      <item itemvalue="Application.Que18" />
+      <item itemvalue="Application.Que1" />
+      <item itemvalue="Application.Que2" />
       <item itemvalue="Application.Que3" />
+      <item itemvalue="Application.Que4" />
+      <item itemvalue="Application.Que6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Que6" />
+        <item itemvalue="Application.Que4" />
+        <item itemvalue="Application.Que2" />
+        <item itemvalue="Application.Que1" />
         <item itemvalue="Application.Que3" />
-        <item itemvalue="Application.Que18" />
-        <item itemvalue="Application.Que16" />
-        <item itemvalue="Application.Que15" />
-        <item itemvalue="Application.Que14" />
       </list>
     </recent_temporary>
   </component>
@@ -324,14 +320,14 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29127517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,17 +335,15 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32967034" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw java" />
@@ -368,20 +362,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Que5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Que6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Que9.java" />
     <entry file="file://$PROJECT_DIR$/src/Que8.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -390,42 +370,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Que10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Que13.java" />
-    <entry file="file://$PROJECT_DIR$/src/Que7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="40" column="66" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Que2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Que4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Que3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Que18.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -447,10 +392,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Que4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Que5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Que6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3281">
+          <caret line="231" column="19" selection-start-line="231" selection-start-column="19" selection-end-line="231" selection-end-column="19" />
+          <folding>
+            <element signature="e#8064#8065#0" expanded="true" />
+            <element signature="e#8112#8113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Que3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Que14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Que7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="66" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -475,14 +466,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/HashSet.java">
+    <entry file="file://$PROJECT_DIR$/src/Que2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="231" column="19" selection-start-line="231" selection-start-column="19" selection-end-line="231" selection-end-column="19" />
-          <folding>
-            <element signature="e#8064#8065#0" expanded="true" />
-            <element signature="e#8112#8113#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Que10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
         </state>
       </provider>
     </entry>

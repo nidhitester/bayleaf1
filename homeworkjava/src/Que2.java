@@ -7,15 +7,18 @@ public class Que2 {
         //array
         String[]array={"nid","sam","gill","chris"};
         //first convert the value to hashset
-        Set<String> set = new HashSet<String>(Arrays.asList(array));
+        //Set<String> set = new HashSet<String>(Arrays.asList(array));
 
-        boolean isValueExist =set.contains("sam");
-        if(isValueExist){
-            System.out.println("value exist in the array!");
-        }
-        else{
-            System.out.println("value does not exist in array!");
-        }
+       // boolean isValueExist =set.contains("sam");
+        //if(isValueExist){
+           // System.out.println("value exist in the array!");
+        ////}
+        //else{
+           // System.out.println("value does not exist in array!");
+        //}
+
+        int i=0;
+        System.out.println("ayyay printes : "+array[2]);
     }
 
 

@@ -2,19 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fea50c4-3cdf-495f-ba32-9768d8f1967c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ie/.idea/libraries/selenium_server_standalone_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Roman/.idea/libraries/selenium_server_standalone_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Roman/src/RomanClothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dgardner/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dgardner/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handlewindow/.idea/libraries/selenium_server_standalone_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handlewindow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handlewindow/src/Frames.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HelloWorld" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Registrationnope/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Registrationnope/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selanium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selanium/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Registrationnope/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Registrationnope/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/.idea/libraries/selenium_server_standalone_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Roman/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/Selanium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/out/production/Selanium/FirstSeleniumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/out/production/Selanium/browserdriver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/src/FirstSeleniumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/src/browserdriver/.idea/browserdriver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/src/browserdriver/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/src/browserdriver/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/src/browserdriver/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selanium/src/browserdriver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/main/java/com/demo/nopcommerce/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/main/java/com/demo/nopcommerce/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/main/java/com/demo/nopcommerce/LoadProp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/main/java/com/demo/nopcommerce/Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/test/Resources/Driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/test/Resources/Feature/verify.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/test/java/com/demo/nopcommerce/Hook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/test/java/com/demo/nopcommerce/MyStepDefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demonopecommercecom/src/test/java/com/demo/nopcommerce/RunTime.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/GoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GoogleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/google_id/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/GoogleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/GoogleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/google_id/AppTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../homeworkjava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkjava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworkjava/out/production/homeworkjava/Que2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkjava/out/production/homeworkjava/Que2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworkjava/out/production/homeworkjava/Que4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkjava/out/production/homeworkjava/Que4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworkjava/src/Que2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkjava/src/Que2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworkjava/src/Que4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkjava/src/Que4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javahw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javahw3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myHW3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myHW3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noopcommerceBdd/src/main/java/com/noopcommercerefactor/BooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../noopcommerceBdd/src/main/java/com/noopcommercerefactor/BooksPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noopcommerceBdd/src/main/java/com/noopcommercerefactor/CrossBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../noopcommerceBdd/src/main/java/com/noopcommercerefactor/CrossBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noopcommerceBdd/src/test/Resources/TestDataConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../noopcommerceBdd/src/test/Resources/TestDataConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noopcommerceBdd/src/test/java/com/noopcommercerefactor/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../noopcommerceBdd/src/test/java/com/noopcommercerefactor/Hook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noopcommerceBdd/src/test/java/com/noopcommercerefactor/MyStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../noopcommerceBdd/src/test/java/com/noopcommercerefactor/MyStepDefs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../registration1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../registration1/src/main/java" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/src/main/java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../registration1/target/classes/NopeCommerce.class" beforeDir="false" afterPath="$PROJECT_DIR$/../registration1/target/classes/NopeCommerce.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,46 +63,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="342621395">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.opened" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="2" />
-          <entry key="exe" value="2" />
-          <entry key="java" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="3" />
-          <entry key="PLAIN_TEXT" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="320" />
-          <entry key="xml" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="320" />
-          <entry key="XML" value="4" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -116,8 +116,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+    <option name="x" value="-195" />
+    <option name="y" value="75" />
     <option name="width" value="1935" />
     <option name="height" value="1040" />
   </component>
@@ -127,6 +127,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,12 +145,41 @@
               <item name="exampleid" type="b2602c69:ProjectViewProjectNode" />
               <item name="exampleid" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exampleid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exampleid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exampleid" type="b2602c69:ProjectViewProjectNode" />
               <item name="exampleid" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="google_id" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exampleid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exampleid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exampleid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exampleid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exampleid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exampleid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="google_id" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -165,8 +196,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,6 +230,7 @@
       <module name="exampleid" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="GoogleTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -273,9 +303,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28322148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.295302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -297,6 +326,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
@@ -322,9 +352,6 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
     </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -6,7 +6,7 @@ public class BooksPage extends Util {
     LoadProp loadProp=new LoadProp();
     By email_a_friend_button=By.xpath("//input[@class=\"button-2 email-a-friend-button valid\"]");
     By add_to_cart_button= By.xpath("//div[@data-productid=\"39\"]//input[@value=\"Add to cart\"]");
-    By shopping_cart_button= By.xpath("//span[@class=\"cart-label\"]");
+    By shopping_cart_button= By.id("add-to-cart-button-39");
 
 
     public void user_able_to_buy_books(){
@@ -24,6 +24,7 @@ public class BooksPage extends Util {
     }
     public void click_on_shopping_cart_button(){
         //click on shopping cart
+        explict_eait(shopping_cart_button);
         click_element(shopping_cart_button);
 
     }
