@@ -5,6 +5,6 @@ import org.junit.runner.RunWith;
 
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features=".",tags ="@acceptance",format = {"pretty","html:target/cucumber-reports"})
+@CucumberOptions(features=".",tags ="@email",format = {"pretty","html:target/cucumber-reports"})
 public class RunTime {
 }
